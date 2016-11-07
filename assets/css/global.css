@@ -1,0 +1,35 @@
+@import url("content.css");
+
+@font-face {
+    font-family: "Plumb";
+    src: url("../fonts/plumb-black.otf");
+}
+
+@font-face {
+    font-family: "Plumb Bold";
+    src: url("../fonts/plumb-bold.otf");
+}
+
+@font-face {
+    font-family: "Plumb Regular";
+    src: url("../fonts/plumb-regular.otf");
+}
+
+@font-face {
+    font-family: "Helvetica";
+    src: url("../fonts/HelveticaRegular.ttf");
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.services-box {
+   width: 986px;
+    margin: 0 auto;
+    border: 1px solid red;
+
+}
